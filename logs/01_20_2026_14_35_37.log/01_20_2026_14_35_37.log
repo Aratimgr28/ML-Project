@@ -1,0 +1,4 @@
+[2026-01-20 14:35:38,603] 20 -INFO -Enter the data ingestion method or component
+[2026-01-20 14:35:38,603] 23 -INFO -Read the dataset as DataFrame
+[2026-01-20 14:35:38,619] 27 -INFO -Train Test Split Initiated
+[2026-01-20 14:35:38,619] 31 -INFO -Data Ingestion completed
